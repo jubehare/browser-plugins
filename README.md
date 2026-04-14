@@ -21,6 +21,8 @@ The extension will now appear in your extensions list and be active in the brows
 
 ### textless-x-extension
 
+![textless-x-extension screenshot](textless-x-extension/screenshot1.png)
+
 Hides text on X.com (Twitter).
 
 ---
